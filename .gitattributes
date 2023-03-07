@@ -1,0 +1,3 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+*.txt filter=lfs diff=lfs merge=lfs -text
+examples/fec/P00000001-ALL.csv filter=lfs diff=lfs merge=lfs -text
