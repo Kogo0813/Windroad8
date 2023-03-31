@@ -7,3 +7,6 @@
 *.Rhistory
 *.RData
 *.pdf
+*.tiff
+*.csv
+*.xlsx
