@@ -45,9 +45,9 @@ from skimage.measure import block_reduce
 
 X = []
 Y = []
-path_prefix = 'D:\\windpath\\12_sample\\klam21_'
+path_prefix = 'D:\\windpath\\windpath\\12_sample\\klam21_'
 for i in range(2, 3): #9
-  for h in range(1, 4): #4
+  for h in range(1, 2): #4
     for s in range(0,6): #6
       for d in range(0, 360, 60): #360
         height = np.full((60,75),h)
